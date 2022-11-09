@@ -7,5 +7,3 @@ Team Member : Sudhakar
 Team Member : Siva Subramanian 
 Team Member : Subhuhani
 
-Team Members dont have access to this repository. Their repository is https://github.com/IBM-EPBL/SI-GuidedProject-23642-1665728893.
-I dont have access to their Repository.
